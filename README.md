@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
 | ------- |
