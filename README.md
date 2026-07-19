@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0733-flood-fill) |
