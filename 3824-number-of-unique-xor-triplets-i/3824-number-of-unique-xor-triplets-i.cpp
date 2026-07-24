@@ -5,7 +5,7 @@ public:
         if(n==1) return 1;
         if(n==2) return 2;
         int k = log(n)/log(2);
-        return pow(2,k+1);
+        return 1<<(k+1);
 
     }
 };
