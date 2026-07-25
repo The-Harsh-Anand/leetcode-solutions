@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
+| [3859-maximum-product-of-two-digits](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
