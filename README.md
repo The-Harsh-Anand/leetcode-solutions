@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
@@ -177,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 ## Backtracking
 |  |
@@ -186,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
