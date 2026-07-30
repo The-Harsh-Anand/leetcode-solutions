@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
