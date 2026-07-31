@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0126-word-ladder-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0127-word-ladder) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
