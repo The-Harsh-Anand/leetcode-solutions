@@ -9,22 +9,27 @@
  * };
  */
 class Solution {
+
+private:
+    struct comp {
+        bool operator()(const ListNode* l1, const ListNode* l2) {
+            return l1->val > l2->val;
+        }
+    };
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<int,vector<int>,greater<int>> pq;
+        priority_queue<ListNode*,vector<ListNode*>,comp> pq;
         for(auto& list:lists) {
-            ListNode* temp = list;
-            while(temp) {
-                pq.push(temp->val);
-                temp=temp->next;
-            }
+            if(list) pq.push(list);
         }
         ListNode* result = new ListNode(-1);
         ListNode* temp=result;
         while(!pq.empty()) {
-            temp->next = new ListNode(pq.top());
+            ListNode* curr = pq.top();
             pq.pop();
-            temp = temp->next;
+            temp->next = curr;
+            if(curr->next) pq.push(curr->next);
+            temp = curr;
         }
         return result->next;
     }
