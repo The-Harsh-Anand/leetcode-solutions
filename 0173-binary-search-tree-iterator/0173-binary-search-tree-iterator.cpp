@@ -11,33 +11,27 @@
  */
 class BSTIterator {
 private:
-    TreeNode* temp;
     stack<TreeNode*> st;
-    queue<int> ans;
+    void pushLeft(TreeNode* r) {
+        while(r) {
+            st.push(r);
+            r=r->left;
+        }
+    }
 public:
     BSTIterator(TreeNode* root) {
-        temp = root;
-        while(temp || !st.empty()) {
-            while(temp) {
-                st.push(temp);
-                temp = temp->left;
-            }
-
-            temp = st.top();
-            st.pop();
-            ans.push(temp->val);
-            temp = temp->right;
-        }
+        pushLeft(root);
     }
 
     int next() {
-        int x = ans.front();
-        ans.pop();
-        return x;
+        TreeNode* node = st.top();
+        st.pop();
+        if(node->right) pushLeft(node->right);
+        return node->val;
     }
     
     bool hasNext() {
-        return !ans.empty();
+        return !st.empty();
     }
 };
 
