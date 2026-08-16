@@ -20,7 +20,6 @@ public:
             st.erase(0,1);
             st+=st2;
             eff = (i+1)+isok(st);
-            cout<<eff<<" ";
             mineff = min(mineff,eff);
         }
         return mineff;
