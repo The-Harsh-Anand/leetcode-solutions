@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4107-find-missing-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0127-word-ladder) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
 |  |
