@@ -1,8 +1,7 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& rS) {
-        int i,j,sz=rS.size();
-        unordered_map<int,short> seat;
+        unordered_map<int,uint8_t> seat;
         for(auto& r:rS) {
             if(r[1]==1||r[1]==10) continue;
             if(r[1]>=2 && r[1]<=5) seat[r[0]] = seat[r[0]] | (1<<2);
