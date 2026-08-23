@@ -5,7 +5,7 @@ public:
             ans.push_back(str);
             return;
         } else if(closed>open) return;
-        if(open<n)helper(ans,str+'(',n,open+1,closed);
+        if(open<n) helper(ans,str+'(',n,open+1,closed);
         helper(ans,str+')',n,open,closed+1);
     }
     vector<string> generateParenthesis(int n) {
