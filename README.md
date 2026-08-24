@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Hash Table
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
