@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0126-word-ladder-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0264-ugly-number-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
