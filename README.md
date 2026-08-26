@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0263-ugly-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1086-divisor-game) |
