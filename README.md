@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0264-ugly-number-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -398,5 +402,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 <!---LeetCode Topics End-->
