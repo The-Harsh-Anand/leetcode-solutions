@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3221-find-the-peaks](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Shortest Path
 |  |
 | ------- |
