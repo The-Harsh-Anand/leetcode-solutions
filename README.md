@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3221-find-the-peaks](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Design
 |  |
 | ------- |
@@ -411,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
