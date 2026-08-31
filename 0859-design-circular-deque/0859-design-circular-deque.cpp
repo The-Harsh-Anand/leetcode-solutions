@@ -1,83 +1,55 @@
 class MyCircularDeque {
 private:
-    class Node{
-        public: 
-            int val;
-            Node* prev;
-            Node* next;
-
-            Node(int val){
-                this->val = val;
-            }
-    };
-
-    void addNode(Node* head, Node* newNode) {
-        Node *temp = head->next;
-
-        newNode->next = temp;
-        temp->prev = newNode;
-
-        newNode->prev = head;
-        head->next = newNode;
-    }
-
-    void deleteNode(Node* delNode) {
-        Node* prevv = delNode->prev;
-        Node* nextt = delNode->next;
-
-        prevv->next = nextt;
-        nextt->prev = prevv;
-    }
-
-    Node* front = new Node(-1);
-    Node* rear = new Node(-1);
-
-    int size = 0, limit=0;
+    vector<int> q;
+    int size=0,limit=0;
+    int front=0,rear=0;
 
 public:
-
     MyCircularDeque(int k) {
         limit = k;
-        front->prev = rear;
-        rear->next = front;
+        q.reserve(k);
     }
     
     bool insertFront(int value) {
-        if(size==limit) return false;
-        Node *node = new Node(value);
-        addNode(front->prev,node);
+        if(isFull()) return false;
+        front = (front-1+limit)%limit;
+        q[front] = value;
         size++;
         return true;
     }
     
     bool insertLast(int value) {
-        if(size==limit) return false;
-        Node* node = new Node(value);
-        addNode(rear,node);
+        if(isFull()) return false;
+        q[rear] = value;
+        rear++;
+        rear%=limit;
         size++;
         return true;
     }
     
     bool deleteFront() {
-        if(size==0) return false;
+        if(isEmpty()) return false;
+        front++;
+        front%=limit;
         size--;
-        deleteNode(front->prev);
         return true;
     }
     
     bool deleteLast() {
-        if(size==0) return false;
+        if(isEmpty()) return false;
+        rear = (rear-1+limit)%limit;
         size--;
-        deleteNode(rear->next);
         return true;
     }
     
     int getFront() {
-        return front->prev->val;
+        if(size==0) return -1;
+        return q[front];
     }
     
     int getRear() {
-        return rear->next->val;
+        if(size==0) return -1;
+        return q[(rear-1+limit)%limit];
     }
     
     bool isEmpty() {
