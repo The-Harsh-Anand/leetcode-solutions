@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0836-race-car](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0836-race-car) |
 | [0954-maximum-sum-circular-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1086-divisor-game) |
@@ -429,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Heuristic Search
+|  |
+| ------- |
+| [0836-race-car](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0836-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0836-race-car](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0836-race-car) |
 <!---LeetCode Topics End-->
