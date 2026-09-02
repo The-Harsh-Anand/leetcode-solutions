@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Simulation
