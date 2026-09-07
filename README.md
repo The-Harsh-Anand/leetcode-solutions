@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-race-car](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0836-race-car) |
 | [0954-maximum-sum-circular-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0977-distinct-subsequences-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1086-divisor-game](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
+| [0977-distinct-subsequences-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
