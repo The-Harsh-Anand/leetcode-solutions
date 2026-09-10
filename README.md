@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3561-remove-methods-from-project](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
