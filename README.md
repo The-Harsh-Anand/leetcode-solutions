@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4248-count-commas-in-range-ii) |
