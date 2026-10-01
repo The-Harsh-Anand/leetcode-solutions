@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
