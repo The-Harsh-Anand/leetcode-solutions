@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0836-race-car](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0836-race-car) |
 | [0954-maximum-sum-circular-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0883-car-fleet](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
