@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0883-car-fleet](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0977-distinct-subsequences-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
