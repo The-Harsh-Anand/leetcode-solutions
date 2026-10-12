@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0457-circular-array-loop](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0457-circular-array-loop](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0457-circular-array-loop](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
@@ -567,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0322-coin-change) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
