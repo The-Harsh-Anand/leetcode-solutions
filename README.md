@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3561-remove-methods-from-project](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3561-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3561-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3221-find-the-peaks](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3221-find-the-peaks) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1342-queens-that-can-attack-the-king) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
