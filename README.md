@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4107-find-missing-elements) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
