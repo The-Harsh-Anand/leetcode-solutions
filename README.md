@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3561-remove-methods-from-project](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3561-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Memoization
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
