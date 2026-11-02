@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0179-largest-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-car-fleet](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0866-rectangle-overlap) |
 | [1086-divisor-game](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1086-divisor-game) |
