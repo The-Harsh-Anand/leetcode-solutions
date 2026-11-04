@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
