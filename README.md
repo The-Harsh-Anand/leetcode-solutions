@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
