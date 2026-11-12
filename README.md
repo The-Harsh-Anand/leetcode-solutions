@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3221-find-the-peaks](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
