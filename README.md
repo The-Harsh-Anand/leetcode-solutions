@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3221-find-the-peaks](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3221-find-the-peaks) |
+| [3364-minimum-positive-sum-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [4284-smallest-stable-index-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/4285-smallest-stable-index-ii) |
 ## Simulation
