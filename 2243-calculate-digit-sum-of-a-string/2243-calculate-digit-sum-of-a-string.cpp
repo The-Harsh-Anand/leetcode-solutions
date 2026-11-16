@@ -2,11 +2,10 @@ class Solution {
 public:
     string digitSum(string s, int k) {
         string temp=s,st="";
+        int sum=0;
         while(temp.length()>k) {
-            st="";
-            int i,l=temp.length();
-            int sum=0;
-            for(i=0;i<l;i++) {
+            int l=temp.length();
+            for(int i=0;i<l;i++) {
                 sum+=(temp[i]-'0');
                 if((i+1)%k==0) {
                     st+=to_string(sum);
@@ -14,8 +13,10 @@ public:
                     sum=0;
                 }
             }
-            if(i%k!=0) st+=to_string(sum);
+            if(l%k!=0) st+=to_string(sum);
+            sum=0;
             temp=st;
+            st="";
         }
         return temp;
     }
