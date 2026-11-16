@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1753-path-with-minimum-effort](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3693-climbing-stairs-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2002-stone-game-viii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
