@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3859-maximum-product-of-two-digits](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
