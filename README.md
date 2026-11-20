@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0062-unique-paths) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/The-Harsh-Anand/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
