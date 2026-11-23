@@ -3,13 +3,13 @@ public:
     vector<int> pref;
     int size;
     ProductOfNumbers() {
-        pref.push_back(1);
+        pref.emplace_back(1);
         size=1;
     }
     
     void add(int num) {
         if(num!=0) { 
-            pref.push_back(num*pref[size-1]);
+            pref.emplace_back(num*pref[size-1]);
             size++;
         } else {
             pref={1};
